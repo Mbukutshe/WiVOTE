@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "360065175012",
+    "firebase_url": "https://project-5571930852527870822.firebaseio.com",
+    "project_id": "project-5571930852527870822",
+    "storage_bucket": "project-5571930852527870822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360065175012:android:88f1a830ccde4422",
+        "android_client_info": {
+          "package_name": "com.example.mczondi.wivote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360065175012-o268mv1hbms30d6pt9d9s83qhu12ugsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW5E6GNQlKOjIaddnDM8wVRR3xEQQEQFE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
